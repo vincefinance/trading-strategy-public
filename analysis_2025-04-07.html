@@ -43,30 +43,411 @@
     <div class="container">
         <h1>Trading Analysis - 2025-04-07</h1>
         <pre>
-#LONG Condition
-#If the EMA7 has an increase of that percentage compared to EMA14 and for EMA_SHORT_DAYS days in a row
-EMA_UP_PCT_BUY=2
-#In scope just stocks having value between 5 and 50 dollars
-RANGE_TKT=5,50
-#days in a row the EMA has to respect the EMA_UP_PCT_BUY parameter
-EMA_UP_FOR_DAYS=2
-#Indica la profondita' dei dati analizzati
-HISTORY_DAYS=90
-#Analysis is performing considering MMDDYYYY if specified otherwise current date
-ANALYSIS_START_DATE=
+/Users/vince/local/simulazione/venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
 
-#SHORT Conditions
-TIME_TO_RESIST=2
-REDUCED_POINTS_GAIN=10
-MAX_GAIN_PCT=20
-MAX_LOSS_PCT=8
+Analysis Date: 2025-04-07 16:00:15 EDT
+==================================================
+YF.download() has changed argument auto_adjust default to True
 
-#SIMULATION
-START_DATE_SIMULATION=01012024
-END_DATE_SIMULATION=02262024
+Analyzing VNET:
+Current Price: $6.44
+Current EMA7: $7.40
+Current EMA14: $8.24
+EMA Difference: -10.15%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing FUBO:
+Current Price: $2.73
+Current EMA7: $2.92
+Current EMA14: $3.01
+EMA Difference: -2.82%
+Required EMA Difference: 2.0%
+Price $2.73 outside range ($5.00 - $50.00)
+
+Analyzing BFLY:
+Current Price: $2.07
+Current EMA7: $2.21
+Current EMA14: $2.39
+EMA Difference: -7.46%
+Required EMA Difference: 2.0%
+Price $2.07 outside range ($5.00 - $50.00)
+
+Analyzing INTC:
+Current Price: $19.57
+Current EMA7: $21.37
+Current EMA14: $22.14
+EMA Difference: -3.48%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing AMD:
+Current Price: $83.64
+Current EMA7: $94.35
+Current EMA14: $98.87
+EMA Difference: -4.58%
+Required EMA Difference: 2.0%
+Price $83.64 outside range ($5.00 - $50.00)
+
+Analyzing MU:
+Current Price: $68.37
+Current EMA7: $77.76
+Current EMA14: $84.12
+EMA Difference: -7.56%
+Required EMA Difference: 2.0%
+Price $68.37 outside range ($5.00 - $50.00)
+
+Analyzing QCOM:
+Current Price: $129.72
+Current EMA7: $141.32
+Current EMA14: $147.55
+EMA Difference: -4.22%
+Required EMA Difference: 2.0%
+Price $129.72 outside range ($5.00 - $50.00)
+
+Analyzing BB:
+Current Price: $2.94
+Current EMA7: $3.36
+Current EMA14: $3.70
+EMA Difference: -9.22%
+Required EMA Difference: 2.0%
+Price $2.94 outside range ($5.00 - $50.00)
+
+Analyzing SERV:
+Current Price: $5.43
+Current EMA7: $5.75
+Current EMA14: $6.34
+EMA Difference: -9.31%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing NVDA:
+Current Price: $97.64
+Current EMA7: $103.57
+Current EMA14: $108.28
+EMA Difference: -4.35%
+Required EMA Difference: 2.0%
+Price $97.64 outside range ($5.00 - $50.00)
+
+Sleeping for 10 seconds before processing next batch...
+
+Analyzing AMD:
+Current Price: $83.64
+Current EMA7: $94.35
+Current EMA14: $98.87
+EMA Difference: -4.58%
+Required EMA Difference: 2.0%
+Price $83.64 outside range ($5.00 - $50.00)
+
+Analyzing AMZN:
+Current Price: $175.26
+Current EMA7: $183.46
+Current EMA14: $189.50
+EMA Difference: -3.18%
+Required EMA Difference: 2.0%
+Price $175.26 outside range ($5.00 - $50.00)
+
+Analyzing GOOGL:
+Current Price: $146.75
+Current EMA7: $152.25
+Current EMA14: $156.81
+EMA Difference: -2.91%
+Required EMA Difference: 2.0%
+Price $146.75 outside range ($5.00 - $50.00)
+
+Analyzing GOOG:
+Current Price: $149.24
+Current EMA7: $154.33
+Current EMA14: $158.84
+EMA Difference: -2.84%
+Required EMA Difference: 2.0%
+Price $149.24 outside range ($5.00 - $50.00)
+
+Analyzing MSFT:
+Current Price: $357.86
+Current EMA7: $371.19
+Current EMA14: $377.87
+EMA Difference: -1.77%
+Required EMA Difference: 2.0%
+Price $357.86 outside range ($5.00 - $50.00)
+
+Analyzing ADBE:
+Current Price: $340.70
+Current EMA7: $366.23
+Current EMA14: $380.12
+EMA Difference: -3.65%
+Required EMA Difference: 2.0%
+Price $340.70 outside range ($5.00 - $50.00)
+
+Analyzing PLTR:
+Current Price: $77.84
+Current EMA7: $81.99
+Current EMA14: $84.53
+EMA Difference: -3.01%
+Required EMA Difference: 2.0%
+Price $77.84 outside range ($5.00 - $50.00)
+
+Analyzing CRWD:
+Current Price: $324.36
+Current EMA7: $344.17
+Current EMA14: $352.85
+EMA Difference: -2.46%
+Required EMA Difference: 2.0%
+Price $324.36 outside range ($5.00 - $50.00)
+
+Analyzing PANW:
+Current Price: $152.44
+Current EMA7: $164.11
+Current EMA14: $170.71
+EMA Difference: -3.86%
+Required EMA Difference: 2.0%
+Price $152.44 outside range ($5.00 - $50.00)
+
+Analyzing NOW:
+Current Price: $735.87
+Current EMA7: $773.93
+Current EMA14: $799.91
+EMA Difference: -3.25%
+Required EMA Difference: 2.0%
+Price $735.87 outside range ($5.00 - $50.00)
+
+Sleeping for 10 seconds before processing next batch...
+
+Analyzing SNPS:
+Current Price: $380.90
+Current EMA7: $412.48
+Current EMA14: $426.60
+EMA Difference: -3.31%
+Required EMA Difference: 2.0%
+Price $380.90 outside range ($5.00 - $50.00)
+
+Analyzing CDNS:
+Current Price: $233.82
+Current EMA7: $246.98
+Current EMA14: $251.46
+EMA Difference: -1.78%
+Required EMA Difference: 2.0%
+Price $233.82 outside range ($5.00 - $50.00)
+
+Analyzing TTD:
+Current Price: $46.34
+Current EMA7: $51.11
+Current EMA14: $54.34
+EMA Difference: -5.94%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing DOCU:
+Current Price: $71.95
+Current EMA7: $77.82
+Current EMA14: $80.49
+EMA Difference: -3.33%
+Required EMA Difference: 2.0%
+Price $71.95 outside range ($5.00 - $50.00)
+
+Analyzing DCTH:
+Current Price: $10.91
+Current EMA7: $11.99
+Current EMA14: $12.54
+EMA Difference: -4.33%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing SRTS:
+Current Price: $4.48
+Current EMA7: $4.67
+Current EMA14: $4.72
+EMA Difference: -0.94%
+Required EMA Difference: 2.0%
+Price $4.48 outside range ($5.00 - $50.00)
+
+Analyzing VTVT:
+Current Price: $15.35
+Current EMA7: $16.61
+Current EMA14: $16.94
+EMA Difference: -1.96%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing AGEN:
+Current Price: $1.84
+Current EMA7: $1.66
+Current EMA14: $1.72
+EMA Difference: -3.28%
+Required EMA Difference: 2.0%
+Price $1.84 outside range ($5.00 - $50.00)
+
+Analyzing IMVT:
+Current Price: $14.39
+Current EMA7: $15.83
+Current EMA14: $16.92
+EMA Difference: -6.45%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing ZYME:
+Current Price: $10.43
+Current EMA7: $11.43
+Current EMA14: $11.86
+EMA Difference: -3.67%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Sleeping for 10 seconds before processing next batch...
+
+Analyzing VERO:
+Current Price: $2.46
+Current EMA7: $2.56
+Current EMA14: $2.73
+EMA Difference: -6.21%
+Required EMA Difference: 2.0%
+Price $2.46 outside range ($5.00 - $50.00)
+
+Analyzing KPTI:
+Current Price: $4.04
+Current EMA7: $4.12
+Current EMA14: $4.70
+EMA Difference: -12.33%
+Required EMA Difference: 2.0%
+Price $4.04 outside range ($5.00 - $50.00)
+
+Analyzing BLRX:
+Current Price: $2.52
+Current EMA7: $2.85
+Current EMA14: $3.00
+EMA Difference: -5.13%
+Required EMA Difference: 2.0%
+Price $2.52 outside range ($5.00 - $50.00)
+
+Analyzing ONCT:
+Current Price: $0.53
+Current EMA7: $0.53
+Current EMA14: $0.53
+EMA Difference: 0.00%
+Required EMA Difference: 2.0%
+Price $0.53 outside range ($5.00 - $50.00)
+
+Analyzing APLS:
+Current Price: $19.80
+Current EMA7: $21.69
+Current EMA14: $22.73
+EMA Difference: -4.57%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing CRBP:
+Current Price: $5.21
+Current EMA7: $5.25
+Current EMA14: $5.58
+EMA Difference: -5.94%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing ITCI:
+Current Price: $131.87
+Current EMA7: $131.80
+Current EMA14: $131.55
+EMA Difference: 0.18%
+Required EMA Difference: 2.0%
+Price $131.87 outside range ($5.00 - $50.00)
+
+Analyzing ACDC:
+Current Price: $4.53
+Current EMA7: $6.40
+Current EMA14: $6.93
+EMA Difference: -7.74%
+Required EMA Difference: 2.0%
+Price $4.53 outside range ($5.00 - $50.00)
+
+Analyzing AIRS:
+Current Price: $1.93
+Current EMA7: $2.12
+Current EMA14: $2.39
+EMA Difference: -11.32%
+Required EMA Difference: 2.0%
+Price $1.93 outside range ($5.00 - $50.00)
+
+Analyzing ASTE:
+Current Price: $31.07
+Current EMA7: $33.04
+Current EMA14: $34.09
+EMA Difference: -3.07%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Sleeping for 10 seconds before processing next batch...
+
+Analyzing ATRO:
+Current Price: $21.69
+Current EMA7: $23.45
+Current EMA14: $23.95
+EMA Difference: -2.11%
+Required EMA Difference: 2.0%
+Consecutive days meeting EMA condition: 0/2
+
+Analyzing AVAH:
+Current Price: $4.96
+Current EMA7: $5.24
+Current EMA14: $5.22
+EMA Difference: 0.25%
+Required EMA Difference: 2.0%
+Price $4.96 outside range ($5.00 - $50.00)
+
+Trading Summary
+==================================================
+
+Active Positions:
+--------------------
+AVAH: LONG Entry $5.46 on 2025-04-01
+
+Completed Trades:
+--------------------
         </pre>
         <div class="last-updated">
-            Last updated: Mon Apr  7 21:55:02 CEST 2025
+            Last updated: Mon Apr  7 22:01:00 CEST 2025
         </div>
     </div>
 </body>
