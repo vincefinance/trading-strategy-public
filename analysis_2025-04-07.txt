@@ -1,13 +1,13 @@
 
-Analysis Date: 2025-04-07 15:52:43 EDT
+Analysis Date: 2025-04-07 15:54:15 EDT
 ==================================================
 YF.download() has changed argument auto_adjust default to True
 
 Analyzing VNET:
-Current Price: $6.41
+Current Price: $6.44
 Current EMA7: $7.40
-Current EMA14: $8.23
-EMA Difference: -10.20%
+Current EMA14: $8.24
+EMA Difference: -10.15%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
@@ -20,52 +20,52 @@ Required EMA Difference: 2.0%
 Price $2.74 outside range ($5.00 - $50.00)
 
 Analyzing BFLY:
-Current Price: $2.11
+Current Price: $2.09
 Current EMA7: $2.22
 Current EMA14: $2.39
-EMA Difference: -7.25%
+EMA Difference: -7.35%
 Required EMA Difference: 2.0%
-Price $2.11 outside range ($5.00 - $50.00)
+Price $2.09 outside range ($5.00 - $50.00)
 
 Analyzing INTC:
-Current Price: $19.33
-Current EMA7: $21.31
-Current EMA14: $22.11
-EMA Difference: -3.61%
+Current Price: $19.26
+Current EMA7: $21.29
+Current EMA14: $22.10
+EMA Difference: -3.65%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
 Analyzing AMD:
-Current Price: $82.79
-Current EMA7: $94.13
-Current EMA14: $98.76
-EMA Difference: -4.69%
+Current Price: $82.40
+Current EMA7: $94.04
+Current EMA14: $98.71
+EMA Difference: -4.73%
 Required EMA Difference: 2.0%
-Price $82.79 outside range ($5.00 - $50.00)
+Price $82.40 outside range ($5.00 - $50.00)
 
 Analyzing MU:
-Current Price: $67.58
-Current EMA7: $77.56
-Current EMA14: $84.02
-EMA Difference: -7.68%
+Current Price: $67.08
+Current EMA7: $77.44
+Current EMA14: $83.95
+EMA Difference: -7.75%
 Required EMA Difference: 2.0%
-Price $67.58 outside range ($5.00 - $50.00)
+Price $67.08 outside range ($5.00 - $50.00)
 
 Analyzing QCOM:
-Current Price: $128.82
-Current EMA7: $141.09
-Current EMA14: $147.43
-EMA Difference: -4.30%
+Current Price: $128.46
+Current EMA7: $141.01
+Current EMA14: $147.38
+EMA Difference: -4.33%
 Required EMA Difference: 2.0%
-Price $128.82 outside range ($5.00 - $50.00)
+Price $128.46 outside range ($5.00 - $50.00)
 
 Analyzing BB:
-Current Price: $2.93
-Current EMA7: $3.36
+Current Price: $2.92
+Current EMA7: $3.35
 Current EMA14: $3.70
-EMA Difference: -9.24%
+EMA Difference: -9.27%
 Required EMA Difference: 2.0%
-Price $2.93 outside range ($5.00 - $50.00)
+Price $2.92 outside range ($5.00 - $50.00)
 
 Analyzing SERV:
 Current Price: $5.39
@@ -76,118 +76,118 @@ Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
 Analyzing NVDA:
-Current Price: $97.01
-Current EMA7: $103.42
-Current EMA14: $108.20
-EMA Difference: -4.42%
+Current Price: $96.47
+Current EMA7: $103.28
+Current EMA14: $108.12
+EMA Difference: -4.48%
 Required EMA Difference: 2.0%
-Price $97.01 outside range ($5.00 - $50.00)
+Price $96.47 outside range ($5.00 - $50.00)
 
 Sleeping for 10 seconds before processing next batch...
 
 Analyzing AMD:
-Current Price: $82.68
-Current EMA7: $94.11
-Current EMA14: $98.75
-EMA Difference: -4.70%
+Current Price: $82.42
+Current EMA7: $94.04
+Current EMA14: $98.71
+EMA Difference: -4.73%
 Required EMA Difference: 2.0%
-Price $82.68 outside range ($5.00 - $50.00)
+Price $82.42 outside range ($5.00 - $50.00)
 
 Analyzing AMZN:
-Current Price: $173.90
-Current EMA7: $183.12
+Current Price: $173.86
+Current EMA7: $183.11
 Current EMA14: $189.31
 EMA Difference: -3.27%
 Required EMA Difference: 2.0%
-Price $173.90 outside range ($5.00 - $50.00)
+Price $173.86 outside range ($5.00 - $50.00)
 
 Analyzing GOOGL:
-Current Price: $146.16
-Current EMA7: $152.10
-Current EMA14: $156.73
-EMA Difference: -2.96%
+Current Price: $145.91
+Current EMA7: $152.04
+Current EMA14: $156.70
+EMA Difference: -2.98%
 Required EMA Difference: 2.0%
-Price $146.16 outside range ($5.00 - $50.00)
+Price $145.91 outside range ($5.00 - $50.00)
 
 Analyzing GOOG:
-Current Price: $148.51
-Current EMA7: $154.15
-Current EMA14: $158.75
-EMA Difference: -2.90%
+Current Price: $148.26
+Current EMA7: $154.08
+Current EMA14: $158.71
+EMA Difference: -2.92%
 Required EMA Difference: 2.0%
-Price $148.51 outside range ($5.00 - $50.00)
+Price $148.26 outside range ($5.00 - $50.00)
 
 Analyzing MSFT:
-Current Price: $356.27
-Current EMA7: $370.79
-Current EMA14: $377.66
-EMA Difference: -1.82%
+Current Price: $355.92
+Current EMA7: $370.70
+Current EMA14: $377.61
+EMA Difference: -1.83%
 Required EMA Difference: 2.0%
-Price $356.27 outside range ($5.00 - $50.00)
+Price $355.92 outside range ($5.00 - $50.00)
 
 Analyzing ADBE:
-Current Price: $339.76
+Current Price: $339.74
 Current EMA7: $365.99
 Current EMA14: $379.99
 EMA Difference: -3.68%
 Required EMA Difference: 2.0%
-Price $339.76 outside range ($5.00 - $50.00)
+Price $339.74 outside range ($5.00 - $50.00)
 
 Analyzing PLTR:
-Current Price: $77.09
-Current EMA7: $81.81
-Current EMA14: $84.43
+Current Price: $77.13
+Current EMA7: $81.82
+Current EMA14: $84.44
 EMA Difference: -3.11%
 Required EMA Difference: 2.0%
-Price $77.09 outside range ($5.00 - $50.00)
+Price $77.13 outside range ($5.00 - $50.00)
 
 Analyzing CRWD:
-Current Price: $323.47
-Current EMA7: $343.95
-Current EMA14: $352.73
-EMA Difference: -2.49%
+Current Price: $322.52
+Current EMA7: $343.72
+Current EMA14: $352.61
+EMA Difference: -2.52%
 Required EMA Difference: 2.0%
-Price $323.47 outside range ($5.00 - $50.00)
+Price $322.52 outside range ($5.00 - $50.00)
 
 Analyzing PANW:
-Current Price: $151.60
-Current EMA7: $163.90
-Current EMA14: $170.60
-EMA Difference: -3.93%
+Current Price: $151.32
+Current EMA7: $163.83
+Current EMA14: $170.56
+EMA Difference: -3.94%
 Required EMA Difference: 2.0%
-Price $151.60 outside range ($5.00 - $50.00)
+Price $151.32 outside range ($5.00 - $50.00)
 
 Analyzing NOW:
-Current Price: $730.55
-Current EMA7: $772.60
-Current EMA14: $799.20
-EMA Difference: -3.33%
+Current Price: $729.64
+Current EMA7: $772.37
+Current EMA14: $799.08
+EMA Difference: -3.34%
 Required EMA Difference: 2.0%
-Price $730.55 outside range ($5.00 - $50.00)
+Price $729.64 outside range ($5.00 - $50.00)
 
 Sleeping for 10 seconds before processing next batch...
 
 Analyzing SNPS:
-Current Price: $380.29
-Current EMA7: $412.33
-Current EMA14: $426.52
-EMA Difference: -3.33%
+Current Price: $379.25
+Current EMA7: $412.07
+Current EMA14: $426.38
+EMA Difference: -3.36%
 Required EMA Difference: 2.0%
-Price $380.29 outside range ($5.00 - $50.00)
+Price $379.25 outside range ($5.00 - $50.00)
 
 Analyzing CDNS:
-Current Price: $232.59
-Current EMA7: $246.67
-Current EMA14: $251.30
-EMA Difference: -1.84%
+Current Price: $232.26
+Current EMA7: $246.59
+Current EMA14: $251.26
+EMA Difference: -1.86%
 Required EMA Difference: 2.0%
-Price $232.59 outside range ($5.00 - $50.00)
+Price $232.26 outside range ($5.00 - $50.00)
 
 Analyzing TTD:
-Current Price: $46.17
-Current EMA7: $51.07
-Current EMA14: $54.31
-EMA Difference: -5.98%
+Current Price: $46.06
+Current EMA7: $51.04
+Current EMA14: $54.30
+EMA Difference: -6.00%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
@@ -232,10 +232,10 @@ Required EMA Difference: 2.0%
 Price $1.83 outside range ($5.00 - $50.00)
 
 Analyzing IMVT:
-Current Price: $14.36
+Current Price: $14.35
 Current EMA7: $15.82
-Current EMA14: $16.92
-EMA Difference: -6.47%
+Current EMA14: $16.91
+EMA Difference: -6.49%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
@@ -258,20 +258,20 @@ Required EMA Difference: 2.0%
 Price $2.43 outside range ($5.00 - $50.00)
 
 Analyzing KPTI:
-Current Price: $4.02
+Current Price: $4.04
 Current EMA7: $4.12
 Current EMA14: $4.70
-EMA Difference: -12.39%
+EMA Difference: -12.33%
 Required EMA Difference: 2.0%
-Price $4.02 outside range ($5.00 - $50.00)
+Price $4.04 outside range ($5.00 - $50.00)
 
 Analyzing BLRX:
-Current Price: $2.52
+Current Price: $2.51
 Current EMA7: $2.85
 Current EMA14: $3.00
-EMA Difference: -5.13%
+EMA Difference: -5.17%
 Required EMA Difference: 2.0%
-Price $2.52 outside range ($5.00 - $50.00)
+Price $2.51 outside range ($5.00 - $50.00)
 
 Analyzing ONCT:
 Current Price: $0.53
@@ -282,18 +282,18 @@ Required EMA Difference: 2.0%
 Price $0.53 outside range ($5.00 - $50.00)
 
 Analyzing APLS:
-Current Price: $19.87
-Current EMA7: $21.71
-Current EMA14: $22.74
-EMA Difference: -4.53%
+Current Price: $19.84
+Current EMA7: $21.70
+Current EMA14: $22.73
+EMA Difference: -4.55%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
 Analyzing CRBP:
-Current Price: $5.16
-Current EMA7: $5.23
+Current Price: $5.17
+Current EMA7: $5.24
 Current EMA14: $5.57
-EMA Difference: -6.05%
+EMA Difference: -6.03%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
@@ -306,12 +306,12 @@ Required EMA Difference: 2.0%
 Price $131.87 outside range ($5.00 - $50.00)
 
 Analyzing ACDC:
-Current Price: $4.51
+Current Price: $4.52
 Current EMA7: $6.39
 Current EMA14: $6.93
-EMA Difference: -7.79%
+EMA Difference: -7.76%
 Required EMA Difference: 2.0%
-Price $4.51 outside range ($5.00 - $50.00)
+Price $4.52 outside range ($5.00 - $50.00)
 
 Analyzing AIRS:
 Current Price: $1.92
@@ -322,30 +322,30 @@ Required EMA Difference: 2.0%
 Price $1.92 outside range ($5.00 - $50.00)
 
 Analyzing ASTE:
-Current Price: $31.18
-Current EMA7: $33.07
+Current Price: $31.15
+Current EMA7: $33.06
 Current EMA14: $34.10
-EMA Difference: -3.03%
+EMA Difference: -3.04%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
 Sleeping for 10 seconds before processing next batch...
 
 Analyzing ATRO:
-Current Price: $21.64
+Current Price: $21.67
 Current EMA7: $23.44
 Current EMA14: $23.95
-EMA Difference: -2.13%
+EMA Difference: -2.12%
 Required EMA Difference: 2.0%
 Consecutive days meeting EMA condition: 0/2
 
 Analyzing AVAH:
-Current Price: $4.90
-Current EMA7: $5.22
-Current EMA14: $5.21
-EMA Difference: 0.12%
+Current Price: $4.95
+Current EMA7: $5.23
+Current EMA14: $5.22
+EMA Difference: 0.22%
 Required EMA Difference: 2.0%
-Price $4.90 outside range ($5.00 - $50.00)
+Price $4.95 outside range ($5.00 - $50.00)
 
 Trading Summary
 ==================================================
