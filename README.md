@@ -1,6 +1,8 @@
-# Trading Strategy Performance Summary
+# Vince's Finance Advisory Board
 
-Last Updated: 2025-04-09 15:44:48 EDT
+*Automated Trading Strategy Performance Dashboard*
+
+Last Updated: 2025-04-09 15:48:18 EDT
 
 **Market Status: OPEN** 🟢
 
@@ -8,9 +10,7 @@ Last Updated: 2025-04-09 15:44:48 EDT
 
 | Symbol | Type | Entry Date | Entry Price | Current Price | Performance |
 |--------|------|------------|-------------|---------------|-------------|
-| TSVT | LONG | 2025-04-08 | $4.89 | $4.93
-(Real-time) | +0.92%
-($+0.05/share) |
+| TSVT | LONG | 2025-04-08 | $4.89 | $4.93 (Real-time) | +0.92% ($+0.05/share) |
 
 ## Completed Trades (Last 10)
 
