@@ -1,22 +1,15 @@
 # Trading Strategy Summary
 
-Last Updated: 2025-04-11 15:03:34 EDT
+Last Updated: 2025-04-11 15:12:51 EDT
 
 ## Active Positions
 
-### TSVT
-- Position: LONG
-- Entry: $4.89 on 2025-04-08
-- Current: $4.96 (Real-time as of 2025-04-11 15:03:34 EDT)
-- Performance: +1.43%
-- Profit: $0.07 per share
+| Symbol | Position | Entry Date | Entry Price | Current Price | Performance | P/L per Share |
+|--------|----------|------------|-------------|---------------|-------------|--------------|
+| TSVT | LONG | 2025-04-08 | $4.89 | $4.97 | +1.64% | $+0.08 |
+| VERO | LONG | 2025-04-11 | $4.43 | $4.40 | -0.68% | $-0.03 |
 
-### VERO
-- Position: LONG
-- Entry: $4.43 on 2025-04-11
-- Current: $4.38 (Real-time as of 2025-04-11 15:03:34 EDT)
-- Performance: -1.13%
-- Loss: $-0.05 per share
+*Prices are real-time as of 2025-04-11 15:12:51 EDT*
 
 ## Completed Trades
 
