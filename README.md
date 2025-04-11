@@ -1,17 +1,23 @@
-# Vince's Finance Advisory Board
+# Trading Strategy Summary
 
-*Automated Trading Strategy Performance Dashboard*
-
-Last Updated: 2025-04-11 14:19:55 EDT
-
-**Market Status: OPEN** 🟢
+Last Updated: 2025-04-11 14:55:05 EDT
 
 ## Active Positions
 
-| Symbol | Type | Entry Date | Entry Price | Current Price | Performance |
-|:------:|:----:|:----------:|:----------:|:------------:|:-----------:|
-| TSVT | LONG | 2025-04-08 | $4.89 | $4.95 (Real-time) | +1.23% ($+0.06/share) |
+### TSVT
+- Position: LONG
+- Entry: $4.89 on 2025-04-08
+- Current: $4.96 (Real-time as of 2025-04-11 14:55:05 EDT)
+- Performance: +1.33%
+- Profit: $0.07 per share
 
-## Completed Trades (Last 10)
+### VERO
+- Position: LONG
+- Entry: $4.43 on 2025-04-11
+- Current: $4.41 (Real-time as of 2025-04-11 14:55:06 EDT)
+- Performance: -0.56%
+- Loss: $-0.02 per share
 
-*No completed trades*
+## Completed Trades
+
+No completed trades
