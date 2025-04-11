@@ -2,7 +2,7 @@
 
 *Automated Trading Strategy Performance Dashboard*
 
-Last Updated: 2025-04-11 14:04:45 EDT
+Last Updated: 2025-04-11 14:09:52 EDT
 
 **Market Status: OPEN** 🟢
 
@@ -10,7 +10,7 @@ Last Updated: 2025-04-11 14:04:45 EDT
 
 | Symbol | Type | Entry Date | Entry Price | Current Price | Performance |
 |:------:|:----:|:----------:|:----------:|:------------:|:-----------:|
-| TSVT | LONG | 2025-04-08 | $4.89 | $4.96 (Real-time) | +1.33% ($+0.07/share) |
+| TSVT | LONG | 2025-04-08 | $4.89 | $4.96 (Real-time) | +1.43% ($+0.07/share) |
 
 ## Completed Trades (Last 10)
 
