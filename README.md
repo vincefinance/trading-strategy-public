@@ -1,6 +1,6 @@
 # Trading Strategy Summary
 
-Last Updated: 2025-04-17 15:50:07 EDT
+Last Updated: 2025-04-17 15:53:35 EDT
 
 ## Active Positions
 
@@ -8,12 +8,12 @@ Last Updated: 2025-04-17 15:50:07 EDT
 |--------|----------|------------|-------------|---------------|-------------|--------------|
 | TSVT | LONG | 2025-04-08 | $4.89 | $4.99 | 🟢 +1.94% | 🟢 $+0.10 |
 | VTVT | LONG | 2025-04-15 | $18.99 | $19.16 | 🟢 +0.90% | 🟢 $+0.17 |
-| EVLV | LONG | 2025-04-15 | $3.49 | $3.32 | 🔴 -4.87% | 🔴 $-0.17 |
-| PLTR | LONG | 2025-04-16 | $95.70 | $93.35 | 🔴 -2.46% | 🔴 $-2.35 |
-| PAMT | LONG | 2025-04-16 | $13.97 | $14.09 | 🟢 +0.86% | 🟢 $+0.12 |
-| VERO | SHORT (Opened after LONG position closed with -35.21% loss) | 2025-04-17 | $2.87 | $2.87 | 🟢 +0.00% | 🟢 $+0.00 |
+| EVLV | LONG | 2025-04-15 | $3.49 | $3.31 | 🔴 -5.13% | 🔴 $-0.18 |
+| PLTR | LONG | 2025-04-16 | $95.70 | $93.39 | 🔴 -2.41% | 🔴 $-2.31 |
+| PAMT | LONG | 2025-04-16 | $13.97 | $14.10 | 🟢 +0.93% | 🟢 $+0.13 |
+| VERO | SHORT (Opened after LONG position closed with -35.21% loss) | 2025-04-17 | $2.87 | $2.89 | 🟢 +0.84% | 🟢 $+0.02 |
 
-*Prices are real-time as of 2025-04-17 15:50:07 EDT*
+*Prices are real-time as of 2025-04-17 15:53:35 EDT*
 
 *🟢 = Positive performance | 🔴 = Negative performance*
 
