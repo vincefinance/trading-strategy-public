@@ -1,33 +1,33 @@
 # Trading Strategy Summary
 
-Last Updated: 2025-05-05 16:08:53 EDT
+Last Updated: 2025-05-06 10:11:57 EDT
 
 ## Active Positions
 
 | Symbol | Position | Entry Date | Entry Price | Current Price | Performance | P/L per Share |
 |--------|----------|------------|-------------|---------------|-------------|--------------|
-| TSVT | LONG | 2025-04-08 | $4.89 | $5.00 | +2.25% | $+0.11 |
-| VTVT | LONG | 2025-04-15 | $18.99 | $21.72 | +14.38% | $+2.73 |
-| EVLV | LONG | 2025-04-15 | $3.49 | $4.11 | +17.77% | $+0.62 |
-| PLTR | LONG | 2025-04-16 | $95.70 | $123.77 | +29.33% | $+28.07 |
-| PAMT | LONG | 2025-04-16 | $13.97 | $15.49 | +10.88% | $+1.52 |
-| VERO | SHORT | 2025-04-17 | $2.89 | $2.44 | -15.57% | $-0.45 |
-| AGEN | LONG | 2025-04-23 | $3.29 | $3.09 | -6.22% | $-0.21 |
-| KPTI | LONG | 2025-04-23 | $6.20 | $7.09 | +14.35% | $+0.89 |
-| CRBP | LONG | 2025-04-23 | $6.93 | $7.42 | +6.99% | $+0.49 |
-| KOD | LONG | 2025-04-23 | $4.46 | $4.92 | +10.31% | $+0.46 |
-| MARA | LONG | 2025-04-25 | $14.14 | $13.09 | -7.46% | $-1.05 |
-| BIOA | LONG | 2025-04-25 | $4.13 | $4.15 | +0.48% | $+0.02 |
-| GRAL | LONG | 2025-04-25 | $37.92 | $34.26 | -9.65% | $-3.66 |
-| PI | LONG | 2025-04-28 | $89.50 | $98.46 | +10.01% | $+8.96 |
-| KALU | LONG | 2025-04-30 | $62.56 | $68.99 | +10.28% | $+6.43 |
-| AVTE | LONG | 2025-04-30 | $93.80 | $2.68 | -97.14% | $-91.12 |
-| ZYME | LONG | 2025-05-02 | $13.12 | $12.85 | -2.06% | $-0.27 |
-| BLRX | LONG | 2025-05-02 | $3.48 | $3.25 | -6.49% | $-0.23 |
-| SERV | LONG | 2025-05-05 | $6.76 | $6.34 | -6.21% | $-0.42 |
-| COMM | LONG | 2025-05-05 | $4.68 | $4.75 | +1.45% | $+0.07 |
+| TSVT | LONG | 2025-04-08 | $4.89 | Error | N/A | N/A |
+| VTVT | LONG | 2025-04-15 | $18.99 | Error | N/A | N/A |
+| EVLV | LONG | 2025-04-15 | $3.49 | Error | N/A | N/A |
+| PLTR | LONG | 2025-04-16 | $95.70 | Error | N/A | N/A |
+| PAMT | LONG | 2025-04-16 | $13.97 | Error | N/A | N/A |
+| VERO | SHORT | 2025-04-17 | $2.89 | Error | N/A | N/A |
+| AGEN | LONG | 2025-04-23 | $3.29 | Error | N/A | N/A |
+| KPTI | LONG | 2025-04-23 | $6.20 | Error | N/A | N/A |
+| CRBP | LONG | 2025-04-23 | $6.93 | Error | N/A | N/A |
+| KOD | LONG | 2025-04-23 | $4.46 | Error | N/A | N/A |
+| MARA | LONG | 2025-04-25 | $14.14 | Error | N/A | N/A |
+| BIOA | LONG | 2025-04-25 | $4.13 | Error | N/A | N/A |
+| GRAL | LONG | 2025-04-25 | $37.92 | Error | N/A | N/A |
+| PI | LONG | 2025-04-28 | $89.50 | Error | N/A | N/A |
+| KALU | LONG | 2025-04-30 | $62.56 | Error | N/A | N/A |
+| AVTE | LONG | 2025-04-30 | $93.80 | Error | N/A | N/A |
+| ZYME | LONG | 2025-05-02 | $13.12 | Error | N/A | N/A |
+| BLRX | LONG | 2025-05-02 | $3.48 | Error | N/A | N/A |
+| SERV | LONG | 2025-05-05 | $6.76 | Error | N/A | N/A |
+| COMM | LONG | 2025-05-05 | $4.68 | Error | N/A | N/A |
 
-*Prices are delayed as of 2025-05-05 16:08:53 EDT*
+*Prices are real-time as of 2025-05-06 10:11:57 EDT*
 
 ## Completed Trades
 
